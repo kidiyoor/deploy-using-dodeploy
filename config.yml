@@ -1,3 +1,4 @@
 ---
-- ls -l
-- pwd
+cmd:
+  - ls -l
+  - pwd
