@@ -1,4 +1,5 @@
 ---
 cmd:
-  - ls -l
-  - pwd
+  - npm install -g pm2
+  - npm install
+  - pm2 start app.js
