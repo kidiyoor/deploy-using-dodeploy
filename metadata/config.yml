@@ -1,5 +1,5 @@
 ---
 cmd:
-  - npm install -g pm2
-  - npm install
+  - sudo npm install -g pm2
+  - sudo npm install
   - pm2 start app.js
